@@ -1,0 +1,39 @@
+A. Different sections: 
+
+    > HEADER AREA:  * Banner
+                    * Navigation sections
+
+    > FEATURE AREA: * About
+                    * Skills
+                    * Resume
+                    * Education
+                    * Work Experience
+                    * Quote
+                    * Portfolio                
+  
+     > FOOTER AREA:
+                    * Contact
+                    * Copyright
+
+B. Font: myriad pro
+
+C. Banner image size: 1600x1000
+D. Banner title: * margin: top-500, bottom:305
+                 * Learn more: margin-top: 50
+                 * button height: padding: 20px 8px, border: 2px        
+
+E. Logo: F: padding: 14px 0 ,
+         Focal: padding: 26 23 23 23,
+         menu: pad: 29, 40
+
+         * values, hobbies, goals: 30px, #566366, regular
+         * paragraph: #919191, 18px, regular
+
+
+
+Font-size:
+
+Heading------------ >992 ---- <991 ------- <767 ------- <575 -------<350
+        h1         3.75        3rem         2.5          1.875       1.35
+        h4        1.875         1.875        1.575          1.1812       1.20
+        h5       1.375         1.375           1             1              1
